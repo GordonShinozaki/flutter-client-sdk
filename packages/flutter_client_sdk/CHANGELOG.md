@@ -2,6 +2,13 @@
 
 All notable changes to the LaunchDarkly Flutter client-side SDK will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org).
 
+## [4.22.1](https://github.com/launchdarkly/flutter-client-sdk/compare/4.22.0...4.22.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* Update launchdarkly_common_client to version 1.16.1 ([#376](https://github.com/launchdarkly/flutter-client-sdk/issues/376)) ([9674704](https://github.com/launchdarkly/flutter-client-sdk/commit/9674704162a9f0195e7bb5fc3de36d92b1f91c0b))
+
 ## [4.22.0](https://github.com/launchdarkly/flutter-client-sdk/compare/4.21.1...4.22.0) (2026-11-12)
 
 
